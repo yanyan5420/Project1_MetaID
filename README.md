@@ -1,10 +1,10 @@
-Identification of metabolites in LC-MS untargeted datasets using machine learning
+<h1>Identification of metabolites in LC-MS untargeted datasets using machine learning</h1>
 
-There are three folders: DataPreprocessing, DataVisualization and Figure.
+There are three folders: <strong>DataPreprocessing</strong>, <strong>DataVisualization</strong> and <strong>Figure</strong>.
 
-DataPreprocessing: contains data wrangling codes
+* <strong>DataPreprocessing</strong>: contains data wrangling codes
 
-DataVisualization: contains data visualizing codes
+* <strong>DataVisualization</strong>: contains data visualizing codes
 
-Figure: contains plots created by running visualization codes
+* <strong>Figure</strong>: contains plots created by running visualization codes
 
