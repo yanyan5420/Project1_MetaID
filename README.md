@@ -12,4 +12,4 @@ There are six folders: <strong>DataPreprocessing</strong>, <strong>DataVisualiza
 
 * <strong>MERGE_POS_NEG</strong>: contains codes of processing metabolites data in positive and negative modes
 
-<strong>POS_NEG_Correlation</strong>: contains codes of getting correlations between positive and negative datasets
+* <strong>POS_NEG_Correlation</strong>: contains codes of getting correlations between positive and negative datasets
