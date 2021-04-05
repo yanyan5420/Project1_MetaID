@@ -8,3 +8,15 @@ There are three folders: <strong>Data_Preprocessing</strong>, <strong>Data_Model
 
 * <strong>Data_Visualization</strong>: contains codes for visulaizing results
 
+<strong>Note</strong>: When using the codes in <strong>Data_Preprocessing</strong>, we need to install the rdkit environment. The specifc shell codes show as below:
+
+```bash
+conda create -c rdkit -n my-rdkit-env rdkit
+```
+```bash
+conda activate my-rdkit-env
+```
+```bash
+jupyter notebook
+```
+When using the codes in the other two folders, there is no need to implement in the rdkit environment.
