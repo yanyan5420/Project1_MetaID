@@ -1,15 +1,10 @@
 <h1>Identification of metabolites in LC-MS untargeted datasets using machine learning</h1>
 
-There are six folders: <strong>DataPreprocessing</strong>, <strong>DataVisualization</strong>, <strong>Figure</strong>, <strong>GetDescriptors</strong>, <strong>MERGE_POS_NEG</strong>, <strong>POS_NEG_Correlation</strong>.
+There are three folders: <strong>Data_Preprocessing</strong>, <strong>Data_Modelling</strong>, <strong>Data_Visualization</strong>.
 
-* <strong>DataPreprocessing</strong>: contains data wrangling codes
+* <strong>Data_Preprocessing</strong>: contains codes for getting molecular descriptors
 
-* <strong>DataVisualization</strong>: contains data visualizing codes
+* <strong>Data_Modelling</strong>: contains codes for building models
 
-* <strong>Figure</strong>: contains plots created by running visualization codes
+* <strong>Data_Visualization</strong>: contains codes for visulaizing results
 
-* <strong>GetDescriptors</strong>: contains codes of getting descriptors based on SMILES
-
-* <strong>MERGE_POS_NEG</strong>: contains codes of processing metabolites data in positive and negative modes
-
-* <strong>POS_NEG_Correlation</strong>: contains codes of getting correlations between positive and negative datasets
